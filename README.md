@@ -59,26 +59,30 @@ Calculation:
 
 a.   KVL:
 
- ![IMG_1070](https://github.com/user-attachments/assets/fa5d7cc6-5fed-4a88-9c2f-fcccd7677251)
+
 
 
 
 b.  KCL:
 
 
-![IMG_1071](https://github.com/user-attachments/assets/73d31ebb-2285-488c-ac6d-0fd1c4fbc6c5)
 
 
 
 Tabulation:
 
 a.   KVL:
-![IMG_1070](https://github.com/user-attachments/assets/28ac8768-5d74-490d-95ae-150f5837335b)
+
+![IMG_1070](https://github.com/user-attachments/assets/5be9d347-a432-41fb-b00b-a6d6dac37f85)
+
 
  
 
 
 b.  KCL:
+
+![IMG_1071](https://github.com/user-attachments/assets/b3a5e421-d294-4dd6-b1e2-504050681bbc)
+
 
 
 
