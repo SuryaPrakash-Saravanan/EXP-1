@@ -44,13 +44,13 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
-<img width="739" height="415" alt="image" src="https://github.com/user-attachments/assets/d4f05a06-fc8f-4b18-9d79-a4303cf81126" />
+<img width="770" height="546" alt="Screenshot 2026-03-19 201144" src="https://github.com/user-attachments/assets/ef5113e6-a829-4182-8e5e-69de691d7101" />
 
  
 
 
 b.  KCL:
-<img width="743" height="348" alt="image" src="https://github.com/user-attachments/assets/52be4d65-a5ef-4acf-8c0a-8a3b9737dc49" />
+<img width="828" height="511" alt="Screenshot 2026-03-19 202033" src="https://github.com/user-attachments/assets/19208026-f5db-4013-a8f9-08f46bc9c889" />
 
 
  
